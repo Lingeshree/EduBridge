@@ -1,1 +1,1 @@
-Here which program i wrote in jupyter notebook that all programs i had uploaded topic wise.
+This folder is dedicated to all the programs I did on Python Language in Jupyter Notebook.
